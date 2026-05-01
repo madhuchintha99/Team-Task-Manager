@@ -111,7 +111,7 @@ This app is ready for deployment on Vercel (recommended for Next.js apps).
    ```
 
 3. **Deploy on  Railway**:
-   - Go to [Vercel](https://madhuch-team-task-manager-production-393a.up.railway.app/)
+   - Go to [Railway](https://madhuch-team-task-manager-production-393a.up.railway.app/)
    - Import your GitHub repository
    - Set environment variables:
      - `MONGODB_URI`: your MongoDB Atlas connection string
