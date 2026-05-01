@@ -86,7 +86,7 @@ A full-stack React app to manage projects, team members, and task workflows with
    ```
 4. Open the app at:
    ```bash
-   http://localhost:3000
+ https://madhuch-team-task-manager-production-393a.up.railway.app/
    ```
 
 ## Deployment
@@ -110,8 +110,8 @@ This app is ready for deployment on Vercel (recommended for Next.js apps).
    git push -u origin main
    ```
 
-3. **Deploy on Vercel**:
-   - Go to [Vercel](https://vercel.com)
+3. **Deploy on  Railway**:
+   - Go to [Vercel](https://madhuch-team-task-manager-production-393a.up.railway.app/)
    - Import your GitHub repository
    - Set environment variables:
      - `MONGODB_URI`: your MongoDB Atlas connection string
